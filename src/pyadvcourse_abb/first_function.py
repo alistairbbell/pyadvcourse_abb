@@ -10,6 +10,9 @@ def division_multiply(a,b,c):
 def newfunction(w):
     return 100*w
 
+def newfunctionq(w):
+    return 110*w
+
 #%%
 newfunction(5)
 x = 3
